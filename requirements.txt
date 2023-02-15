@@ -1,0 +1,7 @@
+bw2io==0.8.7
+bw2calc==1.8.1
+brightway2
+jupyter
+tqdm
+seaborn
+matplotlib
